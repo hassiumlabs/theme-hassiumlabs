@@ -2,7 +2,17 @@
   "name": "gitbook-plugin-theme-hassiumlabs",
   "description": "Default theme for HassiumLabs GitBooks",
   "version": "0.0.1",
+  "main": "./index.js",
   "engines": {
     "gitbook": ">=3.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassiumlabs/theme-hassiumlabs"
+  },
+  "author": "Andy Spohn <andy@hassiumlabs.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hassiumlabs/theme-hassiumlabs/issues"
   }
 }
