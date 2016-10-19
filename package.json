@@ -1,7 +1,7 @@
 {
   "name": "gitbook-plugin-theme-hassiumlabs",
   "description": "Default theme for HassiumLabs GitBooks",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "./index.js",
   "engines": {
     "gitbook": ">=3.x.x"
