@@ -1,0 +1,8 @@
+{
+  "name": "gitbook-plugin-theme-hassiumlabs",
+  "description": "Default theme for HassiumLabs GitBooks",
+  "version": "0.0.1",
+  "engines": {
+    "gitbook": ">=3.x.x"
+  }
+}
